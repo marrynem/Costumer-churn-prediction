@@ -30,7 +30,7 @@ This churn analysis was conducted to identify the key reasons why customers are 
 
 **Overview of the report**
 
-This report presents the results of a customer churn analysis for a fictitious telcom company for the fiscal quarter ennded (Q2 2022). The report includes the following sections:
+This report presents the results of a customer churn analysis for a fictitious telcom company. The report includes the following sections:
 
 - **_Data Preparation_**: This section describes the data set used for the analysis and any data cleaning or preprocessing steps that were performed.
 
@@ -49,6 +49,3 @@ Many high value customers are leaving due to competitors' influence and attitude
  - improving on internet speed
  - training customer support staff to better address customer issues
  - finally, the company should improve on the fiber optic internet service type
-
- ## Source
-  Maven Analytics Data Playground
